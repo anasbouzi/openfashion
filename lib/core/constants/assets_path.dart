@@ -1,0 +1,31 @@
+class AssetsPath {
+  final String cover1="assets/cover/cover1.png";
+  final String cover2="assets/cover/cover2.png";
+  final String cover3="assets/cover/cover3.png";
+  final String logoPng="assets/logo/logo.png";
+  final String logoSvg="assets/logo/logo-bg.svg";
+  final String done="assets/pop/done.svg";
+  final String emogi1="assets/pop/emogi1.svg";
+  final String emogi2="assets/pop/emogi2.svg";
+  final String emogi3="assets/pop/emogi3.svg";
+  final String product1="assets/product/product1.png";
+  final String product2="assets/product/product2.png";
+  final String product3="assets/product/product3.png";
+  final String product4="assets/product/product4.png";
+  final String product5="assets/product/product5.png";
+  final String product6="assets/product/product6.png";
+  final String arrow="assets/svgs/arrow.svg";
+  final String delivery="assets/svgs/delivery.svg";
+  final String line="assets/svgs/line.png";
+  final String mastercard="assets/svgs/Mastercard.svg";
+  final String menu="assets/svgs/Menu.svg";
+  final String min="assets/svgs/min.svg";
+  final String plus="assets/svgs/plus.svg";
+  final String promo="assets/svgs/promo.svg";
+  final String search="assets/svgs/Search.svg";
+  final String shopping="assets/svgs/shopping bag.svg";
+  final String visa="assets/svgs/visa.svg";
+  final String ten="assets/texts/10.svg";
+  final String collection="assets/texts/Collection.svg";
+  final String october="assets/texts/October.svg";
+}
